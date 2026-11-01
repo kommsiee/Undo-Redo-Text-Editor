@@ -1,0 +1,38 @@
+{
+  "Seq Insert (5k)": {
+    "string": 0.00095,
+    "gap": 0.00194,
+    "piece_table": 0.6252,
+    "rope": 4.38038
+  },
+  "Prepend (3k)": {
+    "string": 0.00048,
+    "gap": 0.00117,
+    "piece_table": 0.07829,
+    "rope": 1.60461
+  },
+  "Random Insert (3k)": {
+    "string": 0.00166,
+    "gap": 0.00846,
+    "piece_table": 0.31877,
+    "rope": 2.11029
+  },
+  "Seq Delete (3k)": {
+    "string": 0.00086,
+    "gap": 0.00138,
+    "piece_table": 0.00485,
+    "rope": 0.00816
+  },
+  "Get Text (200x)": {
+    "string": 1e-05,
+    "gap": 0.03954,
+    "piece_table": 6e-05,
+    "rope": 0.00151
+  },
+  "Get Range (1k)": {
+    "string": 0.00023,
+    "gap": 0.00177,
+    "piece_table": 0.00064,
+    "rope": 0.0058
+  }
+}
